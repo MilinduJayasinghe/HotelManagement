@@ -1,0 +1,19 @@
+Meal kits                                                                       price
+Rockefeller Salmon                                                   ,           100
+Chicken Breast and Garlic Demi Sauce                                 ,           200
+Scallops with Lemon-Caper Pasta                                      ,           300
+Steak Frites and Marsala Sauce                                       ,           400
+Chicken Breast with Cilantro Butter                                  ,           500
+Wood-Fired BBQ Chicken Pizza                                         ,           600
+French Onion-Crusted Pork Chop                                       ,           700
+Garlic-Ginger Shrimp & Coconut Risotto                               ,           800
+Cheeseburger Stuffed Peppers                                         ,           900
+Spaghetti and Tomato-Mushroom Sauce                                  ,           1000
+Sweet & Savory Roasted Butternut Squash Risotto                      ,           1500
+koththu                                                              ,           2000
+cake                                                                 ,           150
+Rice                                                                 ,           300
+EGB                                                                  ,           50
+Ice cream                                                            ,           250
+Speacial koththu                                                     ,           350
+
